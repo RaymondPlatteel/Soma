@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soma/Exercises/Bench Press.md",
-                "mode": "preview",
+                "file": "Soma/Physical Training/Training Regimen Overview.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bench Press"
+              "title": "Training Regimen Overview"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Soma/Exercises/Bench Press.md",
+            "file": "Soma/Physical Training/Training Regimen Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,11 +169,11 @@
   },
   "active": "2a322dffa155a32e",
   "lastOpenFiles": [
+    "Soma/Exercises/Bench Press.md",
     "Soma/Physical Training/Upper Hypertrophy.md",
     "Soma/Physical Training/Training Regimen Overview.md",
     "Soma/Physical Training/Flexibility.md",
     "Soma/Physical Training/Strength.md",
-    "Soma/Exercises/Bench Press.md",
     "Soma/Physical Training",
     "Soma/Exercises",
     "Soma",

@@ -25,4 +25,4 @@ Then there are other categories that deserve their own spot.
 | **Injury Prevention** | Short Full Body | Short Full Body | Short Full Body       | Short Full Body | Short Full Body | Short Full Body       | Short Full Body |
 *Currently no [[Sprint]] training 
 
-This is a test
+This is a test from iPhone 
