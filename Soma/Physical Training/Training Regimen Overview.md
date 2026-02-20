@@ -39,4 +39,7 @@ So here are a few thoughts on setting up consistency:
 **Time**: At 7pm, I still had time but it would cause me to rush or skip entirely. Obviously, if you have even less time, it won’t happen at all.
 **Friction**: This could be anything that makes it harder to train. “The gym is too far. It’s too cold. The guy at the front desk gives me a hard time” 
 **Location and setup:** The location should have what you need to train and be inviting. I realized I wasn’t consistent with my before-bed stretching. I set up a cozy corner in my room with a yoga mat on the ground and now it’s so much easier.
-**Momentum:** 
+**Momentum:** If you haven’t started training (or haven’t started training a specific component of fitness), jumping right into it doesn’t mean you’ll stick with it right away. But if you’ve done it every day for the past year, the chances that you skip are low. Humans are creatures of habit. Sometimes breaking a habit like that is more difficult than actually doing the training. Not to mention, seeing the results of that momentum is one of the most motivating things in training.
+
+# [[Nutrition]]
+This one definitely deserves its own note
