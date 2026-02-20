@@ -25,4 +25,7 @@ Then there are other categories that deserve their own spot.
 | **Injury Prevention** | Short Full Body | Short Full Body | Short Full Body       | Short Full Body | Short Full Body | Short Full Body       | Short Full Body |
 *Currently no [[Sprint]] training 
 
-This is a test from iPhone 
+## Consistency
+One of the most important things is consistency. A single workout does almost nothing. It’s only after you look back at 50 workouts that you see results. There are 50 thousand steps in a marathon. A single step won’t even register on a gps. The marathon gets completed by taking step after step.
+
+Because of this, we should aim to have consistency. Stude
