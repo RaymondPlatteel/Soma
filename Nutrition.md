@@ -12,3 +12,7 @@ I think I’m gonna try a couple things. First, the body needs only 2 things to 
 Second is liquid calories. I’ve heard this a thousand times but I’m never consistent with it. I currently only do 1 shake per day. I think I need to do 3 per day on top of regular meals. Each shake will be around 800-1000 calories. I think 5000 calories should be very feasible. 
 
 Now I just need to have consistency with this. 
+Since time is definitely a factor, I can meal prep the dry ingredients. Actually hold on… I’m gonna leave that in there because of how stupid that is. It takes about 3 minutes to make a shake. What’s wrong with me?
+
+But I do need to set up consistency. 
+Having all the ingredients in 1 place would help. I’m always out of soymilk. Always out of peanut butter. 
