@@ -7,4 +7,8 @@ I think the biggest one is that I’ve developed a kind of PTSD with eating. I w
 
 Another is laziness. I’m so lazy to cook and I think it has to do with me imagining the grocery shopping, prep, cooking, cleaning (then eating until discomfort) all for it to taste mediocre). Who would stay consistent with that? 
 
-I think I’m gonna try a couple things. 1 
+I think I’m gonna try a couple things. First, the body needs only 2 things to grow muscle. Stimulating workouts, and consistent protein. Assuming my workouts do stimulate mechanical tension, then eating consistent protein throughout the day even in a calorie deficit should be enough to gain muscle. (Although the deficit would likely eat muscle faster than it’s put on).
+
+Second is liquid calories. I’ve heard this a thousand times but I’m never consistent with it. I currently only do 1 shake per day. I think I need to do 3 per day on top of regular meals. Each shake will be around 800-1000 calories. I think 5000 calories should be very feasible. 
+
+Now I just need to have consistency with this. 
