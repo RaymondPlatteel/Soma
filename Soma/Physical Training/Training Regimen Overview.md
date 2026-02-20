@@ -37,4 +37,6 @@ The action that made my deadlift increase wasn’t changing the reps scheme or a
 So here are a few thoughts on setting up consistency:
 
 **Time**: At 7pm, I still had time but it would cause me to rush or skip entirely. Obviously, if you have even less time, it won’t happen at all.
-**Friction**: This could be anything that makes it harder to train. The gym is too far. My
+**Friction**: This could be anything that makes it harder to train. “The gym is too far. It’s too cold. The guy at the front desk gives me a hard time” 
+**Location and setup:** The location should have what you need to train and be inviting. I realized I wasn’t consistent with my before-bed stretching. I set up a cozy corner in my room with a yoga mat on the ground and now it’s so much easier.
+**Momentum:** 
