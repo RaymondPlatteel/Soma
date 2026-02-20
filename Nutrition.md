@@ -14,5 +14,10 @@ Second is liquid calories. I’ve heard this a thousand times but I’m never co
 Now I just need to have consistency with this. 
 Since time is definitely a factor, I can meal prep the dry ingredients. Actually hold on… I’m gonna leave that in there because of how stupid that is. It takes about 3 minutes to make a shake. What’s wrong with me?
 
-But I do need to set up consistency. 
-Having all the ingredients in 1 place would help. I’m always out of soymilk. Always out of peanut butter. 
+But I do need to set up consistency.
+
+**Prep**: Having all the ingredients in 1 place would help. I’m always out of soymilk. Always out of peanut butter.
+
+**Friction:** I sometimes don’t have a blender cup. I think I should hand wash it right after I’m done and reuse it. This wouldn’t be hard.
+
+**Flavor**: I’m afraid I’ll get sick of the same peanut butter shake if I drink 3000 calories of it every day. 
