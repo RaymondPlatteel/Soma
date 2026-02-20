@@ -32,4 +32,9 @@ Because of this, we should aim to have consistency. I have friends and students 
 
 My deadlift progress was halted lately and I kept thinking “I finish work at 7 so I need to stay disciplined and workout late even though I’m tired after work.” But then I decided to move my 6pm client to 4pm. Now I finish work at 5 and have plenty of time to train. 
 
-The thing that 
+The action that made my deadlift increase wasn’t changing the reps scheme or adding an extra day. Moving my 6pm client to 4pm is what increased my deadlift. I just set up consistency.
+
+So here are a few thoughts on setting up consistency:
+
+**Time**: At 7pm, I still had time but it would cause me to rush or skip entirely. Obviously, if you have even less time, it won’t happen at all.
+**Friction**: This could be anything that makes it harder to train. The gym is too far. My
