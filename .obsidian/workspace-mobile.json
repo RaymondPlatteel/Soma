@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Body Hypertrophy.md",
-                "mode": "source",
+                "file": "Soma/Physical Training/Training Regimen Overview.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Body Hypertrophy"
+              "title": "Training Regimen Overview"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Full Body Hypertrophy.md",
+            "file": "Soma/Physical Training/Training Regimen Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,11 +170,11 @@
   },
   "active": "2a322dffa155a32e",
   "lastOpenFiles": [
-    "Soma/Physical Training/Training Regimen Overview.md",
-    "Full Body Hypertrophy.md",
-    "Soma/Physical Training/Upper Hypertrophy.md",
-    "Nutrition.md",
     "Soma/Exercises/Bench Press.md",
+    "Soma/Physical Training/Upper Hypertrophy.md",
+    "Full Body Hypertrophy.md",
+    "Soma/Physical Training/Training Regimen Overview.md",
+    "Nutrition.md",
     "Soma/Physical Training/Strength.md",
     "Soma/Physical Training/Flexibility.md",
     "Soma/Physical Training",

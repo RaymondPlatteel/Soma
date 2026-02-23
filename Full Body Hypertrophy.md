@@ -3,4 +3,5 @@ Since fatigue sets in with each rep to failure, compound exercises must be selec
 
 The big three hit most major muscles 
 [[Bench Press]]
-Some sort of Lat
+Some sort of Lat Pull
+[[Back Squat]]
