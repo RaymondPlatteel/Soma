@@ -23,13 +23,12 @@ Then there are other categories that deserve their own spot.
 | **Cardio**            |                 | Cardio          |                       |                 | Cardio          |                       |                 |
 | **Flexibility**       | Full Body       | Full Body       | Full Body             | Full Body       | Full Body       | Full Body             | Full Body       |
 | **Injury Prevention** | Short Full Body | Short Full Body | Short Full Body       | Short Full Body | Short Full Body | Short Full Body       | Short Full Body |
-*Currently no [[Sprint]] training 
 
 If an [[Upper Hypertrophy]] is skipped, the next day should be a [[Full Body Hypertrophy]] instead of [[Lower Hypertrophy]] 
 
 ## Consistency
 One of the most important things is consistency. A single workout does almost nothing. It’s only after you look back at 50 workouts that you see results. There are 50 thousand steps in a marathon. A single step won’t even register on a gps. The marathon gets completed by taking step after step.
-P
+
 Because of this, we should aim to have consistency. I have friends and students that say “what’s something I can do to lose weight?” They’re looking for an actionable item that will get them to their goals. Recently, I made a realization that the only actionable item that you can do, is to set up consistency. 
 
 My deadlift progress was halted lately and I kept thinking “I finish work at 7 so I need to stay disciplined and workout late even though I’m tired after work.” But then I decided to move my 6pm client to 4pm. Now I finish work at 5 and have plenty of time to train. 
