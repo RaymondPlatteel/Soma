@@ -17,7 +17,7 @@ Then there are other categories that deserve their own spot.
 
 |                       | **Mon**         | **Tue**         | **Wed**               | **Thu**         | **Fri**         | **Sat**               | **Sun**         |
 | --------------------- | --------------- | --------------- | --------------------- | --------------- | --------------- | --------------------- | --------------- |
-| **Speed and Power**   |                 | Jumps           |                       |                 | Jumps           |                       |                 |
+| **Speed and Power**   |                 | Jumps +Sprints  |                       |                 | Jumps +Sprints  |                       |                 |
 | **Resistance**        |                 |                 | [[Upper Hypertrophy]] | Lower           |                 | [[Upper Hypertrophy]] | Lower           |
 | **Endurance**         | Full Body       |                 | Full Body             |                 |                 | Full Body             |                 |
 | **Cardio**            |                 | Cardio          |                       |                 | Cardio          |                       |                 |

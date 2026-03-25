@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Soma/Physical Training/Training Regimen Overview.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -168,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e54e0fd07354d2f8",
+  "active": "2a322dffa155a32e",
   "lastOpenFiles": [
     "Soma/Physical Training/Training Regimen Overview.md",
     "Untitled.md",
