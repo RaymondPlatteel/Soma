@@ -26,6 +26,16 @@ Then there are other categories that deserve their own spot.
 
 If an [[Upper Hypertrophy]] is skipped, the next day should be a [[Full Body Hypertrophy]] instead of [[Lower Hypertrophy]] 
 
+## Update to the current Split View
+This view will organize components of the training block by location and time. 
+
+
+|       | Mon | Tue | Wed                   | Thu                   | Fri | Sat                   | Sun                   |
+| ----- | --- | --- | --------------------- | --------------------- | --- | --------------------- | --------------------- |
+| Track |     |     |                       |                       |     |                       |                       |
+| Gym   |     |     | [[Upper Hypertrophy]] | [[Lower Hypertrophy]] |     | [[Upper Hypertrophy]] | [[Lower Hypertrophy]] |
+|       |     |     |                       |                       |     |                       |                       |
+
 ## Consistency
 One of the most important things is consistency. A single workout does almost nothing. It’s only after you look back at 50 workouts that you see results. There are 50 thousand steps in a marathon. A single step won’t even register on a gps. The marathon gets completed by taking step after step.
 
