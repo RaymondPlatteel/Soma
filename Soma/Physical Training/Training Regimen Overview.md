@@ -34,7 +34,7 @@ This view will organize components of the training block by location and time.
 | ----- | --- | ---------------- | --------------------- | --------------------- | ---------------- | --------------------- | --------------------- |
 | Track |     | [[Fundamentals]] |                       |                       | [[Fundamentals]] |                       |                       |
 | Gym   |     |                  | [[Upper Hypertrophy]] | [[Lower Hypertrophy]] |                  | [[Upper Hypertrophy]] | [[Lower Hypertrophy]] |
-|       |     |                  |                       |                       |                  |                       |                       |
+| Home  |     |                  |                       |                       |                  |                       |                       |
 
 ## Consistency
 One of the most important things is consistency. A single workout does almost nothing. It’s only after you look back at 50 workouts that you see results. There are 50 thousand steps in a marathon. A single step won’t even register on a gps. The marathon gets completed by taking step after step.

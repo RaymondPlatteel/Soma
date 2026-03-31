@@ -1,4 +1,4 @@
-Location: Weymouth high school track
+Location: Legion Memorial Field
 
 ## 0:00 – 0:05 | Dynamic Warmup
 
