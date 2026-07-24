@@ -15,14 +15,14 @@ Then there are other categories that deserve their own spot.
 
 # The Current Split
 
-|                       | **Mon**         | **Tue**         | **Wed**               | **Thu**         | **Fri**         | **Sat**               | **Sun**         |
-| --------------------- | --------------- | --------------- | --------------------- | --------------- | --------------- | --------------------- | --------------- |
-| **Speed and Power**   |                 | Jumps +Sprints  |                       |                 | Jumps +Sprints  |                       |                 |
-| **Resistance**        |                 |                 | [[Upper Hypertrophy]] | Lower           |                 | [[Upper Hypertrophy]] | Lower           |
-| **Endurance**         | Full Body       |                 | Full Body             |                 |                 | Full Body             |                 |
-| **Cardio**            |                 | Cardio          |                       |                 | Cardio          |                       |                 |
-| **Flexibility**       | Full Body       | Full Body       | Full Body             | Full Body       | Full Body       | Full Body             | Full Body       |
-| **Injury Prevention** | Short Full Body | Short Full Body | Short Full Body       | Short Full Body | Short Full Body | Short Full Body       | Short Full Body |
+|                       | **Mon**            | **Tue**         | **Wed**            | **Thu**         | **Fri**            | **Sat**         | **Sun**         |
+| --------------------- | ------------------ | --------------- | ------------------ | --------------- | ------------------ | --------------- | --------------- |
+| **Speed and Power**   |                    | Jumps +Sprints  |                    | Jumps +Sprints  |                    |                 |                 |
+| **Resistance**        | Full Body Strength |                 | Full Body Strength |                 | Full Body Strength |                 |                 |
+| **Endurance**         | Full Body          |                 | Full Body          |                 |                    | Full Body       |                 |
+| **Cardio**            |                    | Cardio          |                    |                 | Cardio             |                 |                 |
+| **Flexibility**       | Full Body          | Full Body       | Full Body          | Full Body       | Full Body          | Full Body       | Full Body       |
+| **Injury Prevention** | Short Full Body    | Short Full Body | Short Full Body    | Short Full Body | Short Full Body    | Short Full Body | Short Full Body |
 
 If an [[Upper Hypertrophy]] is skipped, the next day should be a [[Full Body Hypertrophy]] instead of [[Lower Hypertrophy]] 
 
