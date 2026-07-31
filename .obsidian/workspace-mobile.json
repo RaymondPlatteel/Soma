@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soma/Physical Training/Flexibility.md",
+                "file": "Bridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flexibility"
+              "title": "Bridge"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "2a322dffa155a32e",
   "lastOpenFiles": [
-    "Bridge.md",
     "Soma/Physical Training/Flexibility.md",
+    "Bridge.md",
     "Soma/Physical Training/Training Regimen Overview.md",
     "Fundamentals.md",
     "Home Training.md",
