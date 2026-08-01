@@ -4,17 +4,17 @@
 2 ankles (tongue of normal shoe)
 **2.5**
 3 toes
-**3.5**
+**3.5 PIP joint to ground**
 4 knuckles to ground
-**4.5** 
+**4.5 **
 5 palms to ground
-**5.5**
+**5.5 1/4 forearm to ground**
 6 half forearm same side
-**6.5**
+**6.5 3/4 forearm same side**
 7 half forearm opposite side
-**7.5**
+**7.5 3/4 forearm opposite side**
 8 elbow 
-**8.5**
+**8.5 MTP elbow**
 9 opposite elbow
-**9.5**
-10 head
+**9.5 halfway to head to toe (measure first from 9)**
+10 head to toe
