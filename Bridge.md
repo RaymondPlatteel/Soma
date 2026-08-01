@@ -8,3 +8,8 @@
 8 touch heels bridge 
 9 grab ankle elbow
 10 inosuke bridge
+
+
+Others:
+Elbow bridge grab ankles touch chin to ground
+Both feet touch head 
