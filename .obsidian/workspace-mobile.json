@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pike.md",
+                "file": "Bridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pike"
+              "title": "Bridge"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pike.md",
+            "file": "Bridge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,13 +172,13 @@
   },
   "active": "2a322dffa155a32e",
   "lastOpenFiles": [
-    "Soma/Physical Training/Flexibility.md",
+    "Soma/Physical Training/Upper Hypertrophy.md",
     "Pike.md",
+    "Soma/Physical Training/Flexibility.md",
     "Bridge.md",
     "Soma/Physical Training/Training Regimen Overview.md",
     "Fundamentals.md",
     "Home Training.md",
-    "Soma/Physical Training/Upper Hypertrophy.md",
     "Full Body Hypertrophy.md",
     "Soma/Exercises/Bench Press.md",
     "Untitled.md",
