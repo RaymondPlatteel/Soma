@@ -114,14 +114,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bridge.md",
+            "file": "Pike.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -170,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a322dffa155a32e",
+  "active": "7286dfea50cc36a5",
   "lastOpenFiles": [
     "Bridge.md",
     "Soma/Physical Training/Upper Hypertrophy.md",
