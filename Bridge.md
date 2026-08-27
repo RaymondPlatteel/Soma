@@ -11,7 +11,7 @@
 7 touch head to toe (single side)
 7.5
 8 touch heels bridge
-8.5 finger touches heels
+8.5 finger touches heels elbow bridge 
 9 grab ankle elbow
 9.5 chin stand toes touch head
 10 inosuke bridge
