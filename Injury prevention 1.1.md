@@ -1,6 +1,7 @@
 (Called Resistance Training Day 4 so that people will do it )
+
 ## Ankles
-Tibialis raises 
+Tibialis raises
 Calf Raises
 
 ## Hips
