@@ -4,4 +4,9 @@ Calf Raises
 
 ## Hips
 Cable hip flexor pull + glute bridge
-Bench adductions
+DB Bench adductions
+Standing abductions
+
+## Shoulders
+Cuban Rotations
+Supine Internal Rotations
