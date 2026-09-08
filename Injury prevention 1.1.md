@@ -4,6 +4,9 @@
 Tibialis raises
 Calf Raises
 
+## Knees
+Cable Knee Extensions
+
 ## Hips
 Cable hip flexor pull + glute bridge
 DB Bench adductions
