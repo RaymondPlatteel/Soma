@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bridge.md",
+                "file": "Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bridge"
+              "title": "Fundamentals"
             }
           }
         ],
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Injury prevention 1.1.md",
+            "file": "Fundamentals.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,9 +201,9 @@
   },
   "active": "1cf072fe7fb6986e",
   "lastOpenFiles": [
+    "Bridge.md",
     "Rank Filters.md",
     "Injury prevention 1.1.md",
-    "Bridge.md",
     "Pike.md",
     "Full Body Hypertrophy.md",
     "Soma/Physical Training/Upper Hypertrophy.md",
