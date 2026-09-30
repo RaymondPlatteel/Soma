@@ -1,7 +1,7 @@
 
-1 middle of shins
-2 ankles (tongue of normal shoe)
-3 toes
+1 Fingers to middle of shins
+2 fingers to ankles (tongue of a standard shoe)
+3 fingers to toes
 **3.5 PIP joint to ground**
 4 knuckles to ground
 **4.5 wrists to toe (same side)**
