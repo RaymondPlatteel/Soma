@@ -14,7 +14,7 @@
 8.5 finger touches heels elbow bridge 
 9 grab ankle elbow
 9.5 chin stand toes touch head
-10 chin stand grab ankles on  bridge
+10 chin stand grab ankles on floor 
 
 
 Others:
